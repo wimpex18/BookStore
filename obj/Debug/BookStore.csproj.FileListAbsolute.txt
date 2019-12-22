@@ -1,0 +1,246 @@
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\BookStore.dll.config
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\BookStore.dll
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\BookStore.pdb
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\roslyn\csc.exe
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\roslyn\csc.exe.config
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\roslyn\csc.rsp
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\roslyn\csi.exe
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\roslyn\csi.exe.config
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\roslyn\csi.rsp
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\roslyn\System.AppContext.dll
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\roslyn\System.Console.dll
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\roslyn\System.Net.Http.dll
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\roslyn\System.Net.Sockets.dll
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\roslyn\vbc.exe
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\roslyn\vbc.exe.config
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\roslyn\vbc.rsp
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\Antlr3.Runtime.dll
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\EntityFramework.dll
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\EntityFramework.SqlServer.dll
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\Newtonsoft.Json.dll
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\System.Web.Helpers.dll
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\System.Web.Mvc.dll
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\System.Web.Optimization.dll
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\System.Web.Razor.dll
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\System.Web.WebPages.dll
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\WebGrease.dll
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\EntityFramework.xml
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\EntityFramework.SqlServer.xml
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\System.Web.Helpers.xml
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\System.Web.Mvc.xml
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\System.Web.Optimization.xml
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\System.Web.Razor.xml
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\System.Web.WebPages.xml
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\Newtonsoft.Json.xml
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\Antlr3.Runtime.pdb
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\obj\Debug\BookStore.csproj.CopyComplete
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\obj\Debug\BookStore.dll
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\obj\Debug\BookStore.pdb
+C:\Users\andre\OneDrive\TTHK\Pragram making\C#\Homework\BookStore\obj\Debug\BookStore.csprojAssemblyReference.cache
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\BookStore.dll.config
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\BookStore.dll
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\BookStore.pdb
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\roslyn\csc.exe
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\roslyn\csc.exe.config
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\roslyn\csc.rsp
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\roslyn\csi.exe
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\roslyn\csi.exe.config
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\roslyn\csi.rsp
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\roslyn\System.AppContext.dll
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\roslyn\System.Console.dll
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\roslyn\System.IO.Compression.dll
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\roslyn\System.Net.Http.dll
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\roslyn\System.Net.Sockets.dll
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\roslyn\System.ValueTuple.dll
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\roslyn\System.Xml.XPath.dll
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\roslyn\vbc.exe
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\roslyn\vbc.exe.config
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\roslyn\vbc.rsp
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\roslyn\VBCSCompiler.exe
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\Antlr3.Runtime.dll
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\EntityFramework.dll
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\EntityFramework.SqlServer.dll
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\Newtonsoft.Json.dll
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\System.Web.Helpers.dll
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\System.Web.Mvc.dll
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\System.Web.Optimization.dll
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\System.Web.Razor.dll
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\System.Web.WebPages.Deployment.dll
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\System.Web.WebPages.dll
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\System.Web.WebPages.Razor.dll
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\WebGrease.dll
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\EntityFramework.xml
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\EntityFramework.SqlServer.xml
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\System.Web.Helpers.xml
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\System.Web.Mvc.xml
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\System.Web.Optimization.xml
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\System.Web.Razor.xml
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\System.Web.WebPages.xml
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\System.Web.WebPages.Deployment.xml
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\System.Web.WebPages.Razor.xml
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\Newtonsoft.Json.xml
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\Antlr3.Runtime.pdb
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\obj\Debug\BookStore.csprojAssemblyReference.cache
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\obj\Debug\BookStore.csproj.CopyComplete
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\obj\Debug\BookStore.dll
+C:\Users\wimpe\Downloads\Book-shop-master\Book-shop-master\obj\Debug\BookStore.pdb
+C:\Users\wimpe\Documents\C#\BookStore\bin\BookStore.dll.config
+C:\Users\wimpe\Documents\C#\BookStore\bin\BookStore.dll
+C:\Users\wimpe\Documents\C#\BookStore\bin\BookStore.pdb
+C:\Users\wimpe\Documents\C#\BookStore\bin\roslyn\csc.exe
+C:\Users\wimpe\Documents\C#\BookStore\bin\roslyn\csc.exe.config
+C:\Users\wimpe\Documents\C#\BookStore\bin\roslyn\csc.rsp
+C:\Users\wimpe\Documents\C#\BookStore\bin\roslyn\csi.exe
+C:\Users\wimpe\Documents\C#\BookStore\bin\roslyn\csi.exe.config
+C:\Users\wimpe\Documents\C#\BookStore\bin\roslyn\csi.rsp
+C:\Users\wimpe\Documents\C#\BookStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\wimpe\Documents\C#\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\wimpe\Documents\C#\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\wimpe\Documents\C#\BookStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\wimpe\Documents\C#\BookStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\wimpe\Documents\C#\BookStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\wimpe\Documents\C#\BookStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\wimpe\Documents\C#\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\wimpe\Documents\C#\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\wimpe\Documents\C#\BookStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\wimpe\Documents\C#\BookStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\wimpe\Documents\C#\BookStore\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\wimpe\Documents\C#\BookStore\bin\roslyn\System.AppContext.dll
+C:\Users\wimpe\Documents\C#\BookStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\wimpe\Documents\C#\BookStore\bin\roslyn\System.Console.dll
+C:\Users\wimpe\Documents\C#\BookStore\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\wimpe\Documents\C#\BookStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\wimpe\Documents\C#\BookStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\wimpe\Documents\C#\BookStore\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\wimpe\Documents\C#\BookStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\wimpe\Documents\C#\BookStore\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\wimpe\Documents\C#\BookStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\wimpe\Documents\C#\BookStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\wimpe\Documents\C#\BookStore\bin\roslyn\System.Net.Http.dll
+C:\Users\wimpe\Documents\C#\BookStore\bin\roslyn\System.Net.Sockets.dll
+C:\Users\wimpe\Documents\C#\BookStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\wimpe\Documents\C#\BookStore\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\wimpe\Documents\C#\BookStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\wimpe\Documents\C#\BookStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\wimpe\Documents\C#\BookStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\wimpe\Documents\C#\BookStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\wimpe\Documents\C#\BookStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\wimpe\Documents\C#\BookStore\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\wimpe\Documents\C#\BookStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\wimpe\Documents\C#\BookStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\wimpe\Documents\C#\BookStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\wimpe\Documents\C#\BookStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\wimpe\Documents\C#\BookStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\wimpe\Documents\C#\BookStore\bin\roslyn\vbc.exe
+C:\Users\wimpe\Documents\C#\BookStore\bin\roslyn\vbc.exe.config
+C:\Users\wimpe\Documents\C#\BookStore\bin\roslyn\vbc.rsp
+C:\Users\wimpe\Documents\C#\BookStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\wimpe\Documents\C#\BookStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\wimpe\Documents\C#\BookStore\bin\Antlr3.Runtime.dll
+C:\Users\wimpe\Documents\C#\BookStore\bin\EntityFramework.dll
+C:\Users\wimpe\Documents\C#\BookStore\bin\EntityFramework.SqlServer.dll
+C:\Users\wimpe\Documents\C#\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\wimpe\Documents\C#\BookStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\wimpe\Documents\C#\BookStore\bin\Newtonsoft.Json.dll
+C:\Users\wimpe\Documents\C#\BookStore\bin\System.Web.Helpers.dll
+C:\Users\wimpe\Documents\C#\BookStore\bin\System.Web.Mvc.dll
+C:\Users\wimpe\Documents\C#\BookStore\bin\System.Web.Optimization.dll
+C:\Users\wimpe\Documents\C#\BookStore\bin\System.Web.Razor.dll
+C:\Users\wimpe\Documents\C#\BookStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\wimpe\Documents\C#\BookStore\bin\System.Web.WebPages.dll
+C:\Users\wimpe\Documents\C#\BookStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\wimpe\Documents\C#\BookStore\bin\WebGrease.dll
+C:\Users\wimpe\Documents\C#\BookStore\bin\EntityFramework.xml
+C:\Users\wimpe\Documents\C#\BookStore\bin\EntityFramework.SqlServer.xml
+C:\Users\wimpe\Documents\C#\BookStore\bin\System.Web.Helpers.xml
+C:\Users\wimpe\Documents\C#\BookStore\bin\System.Web.Mvc.xml
+C:\Users\wimpe\Documents\C#\BookStore\bin\System.Web.Optimization.xml
+C:\Users\wimpe\Documents\C#\BookStore\bin\System.Web.Razor.xml
+C:\Users\wimpe\Documents\C#\BookStore\bin\System.Web.WebPages.xml
+C:\Users\wimpe\Documents\C#\BookStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\wimpe\Documents\C#\BookStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\wimpe\Documents\C#\BookStore\bin\Newtonsoft.Json.xml
+C:\Users\wimpe\Documents\C#\BookStore\bin\Antlr3.Runtime.pdb
+C:\Users\wimpe\Documents\C#\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\wimpe\Documents\C#\BookStore\obj\Debug\BookStore.csprojAssemblyReference.cache
+C:\Users\wimpe\Documents\C#\BookStore\obj\Debug\BookStore.csproj.CopyComplete
+C:\Users\wimpe\Documents\C#\BookStore\obj\Debug\BookStore.dll
+C:\Users\wimpe\Documents\C#\BookStore\obj\Debug\BookStore.pdb
