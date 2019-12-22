@@ -116,7 +116,7 @@ namespace BookStore.Controllers
             db.SaveChanges();
             return RedirectToAction("Index");
         }
-
+        // *
         public ActionResult Pay(Guid? id)
         {
             if (id == null)

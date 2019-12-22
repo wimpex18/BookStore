@@ -1,7 +1,7 @@
 ﻿@model BookStore.Models.ShoppingCart
 
 @{
-    ViewBag.Title = "Cart details";
+    ViewBag.Title = "Cart ";
 }
 
 <h2>Cart details</h2>
@@ -58,5 +58,5 @@
 <p>
     @Html.ActionLink("Pay", "Pay", new { id = Model.Id }) |
     @Html.ActionLink("Back to List", "Index") |
-    @Html.ActionLink("Back to book list", "Index", "Books")
+    @Html.ActionLink("Continue shopping", "Index", "Books")
 </p>

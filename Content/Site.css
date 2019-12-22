@@ -1,6 +1,8 @@
 ﻿body {
     padding-top: 50px;
     padding-bottom: 20px;
+    font-family: Verdana, sans-serif;
+    background-color: #FFFDF7;
 }
 
 /* Set padding to keep content from hitting the edges */
@@ -21,4 +23,34 @@ input,
 select,
 textarea {
     max-width: 280px;
+}
+
+.home-page {
+    background-color: #FFFDF7;
+}
+
+.btn {
+    background-color: lightskyblue;
+}
+
+.home-page h1{
+    font-family:Georgia, Times, serif;
+    font-size:80px;
+    color: cornflowerblue;
+    text-transform:uppercase;
+    font-weight:bold;
+}
+
+.home-page h3{
+    font-size:20px;
+    font-weight:bold;
+}
+
+.home-page p{
+    margin-top:20px;
+    font-size: 16px;
+}
+
+.home-page img {
+    width: 500px;
 }
